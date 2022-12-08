@@ -7,7 +7,7 @@ import RegisterPage from 'src/Components/pages/RegisterPage.js'
 import ForgetPasswordPage from 'src/Components/pages/ForgotPasswordPage.js'
 import HomePage from 'src/Components/pages/HomePage.js'
 
-import './App.css'
+import 'src/App.css'
 
 export default function App() {
     return (
