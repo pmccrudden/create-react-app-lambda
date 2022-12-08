@@ -1,7 +1,7 @@
 import React from 'react'
 import { Link } from 'react-router-dom'
 
-import '../../App.css'
+import 'src/App.css'
 
 export default function SignInPage() {
     return (
